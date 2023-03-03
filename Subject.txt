@@ -1,0 +1,10 @@
+ 441 English
+ 442 Urdu
+ 443 Mathematic
+ 444 Computer
+ 445 Physics
+ 446 Chemistry
+ 447 Biology
+ 448 IslamicStudies
+ 449 PakStudies
+ 450 Science
