@@ -1,1 +1,1 @@
-# my_School
+# my_School_C++
